@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "types": ["express", "./src/types/express.d.ts"],
+    "baseUrl": "./src",              
+    "target": "ES6",                 
+    "module": "CommonJS",            
+    "outDir": "./dist",              
+    "rootDir": "./src",              
+    "strict": true,                  
+    "esModuleInterop": true,         
+    "skipLibCheck": true             
+  }
+}
